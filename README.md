@@ -27,21 +27,22 @@ This tool helps security analysts and penetration testers by automatically detec
 
 # Clone the repository
 git clone https://github.com/Mrunalini388/Security-Testing-Optimization.git
+
 cd Security-Testing-Optimization
 
 # Create and activate virtual environment
 python -m venv venv
-source venv/bin/activate         # macOS/Linux
-# OR
-venv\Scripts\activate            # Windows
+source venv/bin/activate          macOS/Linux
+ OR
+venv\Scripts\activate             Windows
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Add your Nmap and Nikto scan logs as:
-# - example_nmap.txt
-# - example_nikto.txt
-# in the root directory
+- example_nmap.txt
+- example_nikto.txt
+- in the root directory
 
 # Run anomaly detection
 python ai_log_analyzer.py
