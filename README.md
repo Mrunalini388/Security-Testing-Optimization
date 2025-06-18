@@ -1,2 +1,14 @@
-# Security-Testing-Optimization
-Security Testing &amp; Optimization Project: This repository contains a security assessment tool tested in a local virtual environment using Nmap and Nikto. It includes AI-based optimization for better detection accuracy and performance. The project focuses on vulnerability scanning, result analysis, and reporting for security enhancement
+AI-Based Log Anomaly Detector
+
+This tool automates security log analysis by combining traditional scanners (Nmap, Nikto) with AI-based anomaly detection using Python.
+
+ Features
+•	Uses Nmap and Nikto log files
+•	Extracts key features (line length, keywords, IPs, etc.)
+•	Applies Isolation Forest to detect abnormal patterns
+•	Outputs a clear report of anomalies vs. normal entries
+
+ Tech Stack
+•	Python 3.x
+•	Numpy
+•	scikit-learn (IsolationForest)
