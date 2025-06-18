@@ -1,4 +1,4 @@
-AI-Based Log Anomaly Detector
+# AI-Based Log Anomaly Detector
 
 This tool automates security log analysis by combining traditional scanners (Nmap, Nikto) with AI-based anomaly detection using Python.
 
