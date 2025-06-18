@@ -42,7 +42,7 @@ pip install -r requirements.txt
 # Add your Nmap and Nikto scan logs as:
 - example_nmap.txt
 - example_nikto.txt
-- in the root directory
+in the root directory
 
 # Run anomaly detection
 python ai_log_analyzer.py
