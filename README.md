@@ -6,7 +6,7 @@ This tool helps security analysts and penetration testers by automatically detec
 
 ---
 
-## 📁 Features
+##  Features
 
 - Processes raw scan logs from Nmap and Nikto
 - Extracts simple features such as line length and presence of security-related keywords
@@ -16,16 +16,15 @@ This tool helps security analysts and penetration testers by automatically detec
 
 ---
 
-## 📝 Prerequisites
+## Prerequisites
 
 - Python 3.7+
 - Required packages: `numpy`, `scikit-learn`
 
 ---
 
-## ⚙️ Setup & Usage
+##  Setup & Usage
 
-```bash
 # Clone the repository
 git clone https://github.com/hni388/Security-Testing-Optimization.git
 cd Security-Testing-Optimization
