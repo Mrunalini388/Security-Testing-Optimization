@@ -26,7 +26,7 @@ This tool helps security analysts and penetration testers by automatically detec
 ##  Setup & Usage
 
 # Clone the repository
-git clone https://github.com/hni388/Security-Testing-Optimization.git
+git clone https://github.com/Mrunalini388/Security-Testing-Optimization.git
 cd Security-Testing-Optimization
 
 # Create and activate virtual environment
