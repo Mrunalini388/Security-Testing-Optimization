@@ -23,7 +23,6 @@
 git clone https://github.com/Mrunalini388/Security-Testing-Optimization.git
 cd Security-Testing-Optimization
 
-```bash
 Create and activate virtual environment
 macOS/Linux:
 python -m venv venv
@@ -31,7 +30,7 @@ source venv/bin/activate
 Windows:
 python -m venv venv
 venv\Scripts\activate
-```bash
+
 Install dependencies
 pip install -r requirements.txt
 
@@ -39,7 +38,7 @@ Add your Nmap and Nikto scan logs
 Place these files in the root directory:
 example_nmap.txt
 example_nikto.txt
-```bash
+
 Run anomaly detection
 python ai_log_analyzer.py
 
